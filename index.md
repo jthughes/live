@@ -4,6 +4,6 @@
 
 layout: home
 ---
-This is a webpage to test a YouTube Livestream embedded window.
+This is a webpage to test a livestream service. This will be eventually be found on [the ecclesial website](ttgbiblecentre.com.au).
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/live_stream?channel=UCMUamRbQisplYeNzDb3LaJw " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CZ_vHWFr2zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
